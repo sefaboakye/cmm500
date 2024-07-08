@@ -1,0 +1,22 @@
+[
+    {
+        "username": "nanayaw@gmail.com",
+        "title": "Family House",
+        "location": "Dundee",
+        "price": "$200,0000",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "kitchens": "1",
+        "image": "hse5.jpg"
+    },
+    {
+        "username": "oseI@gmail.com",
+        "title": "Family House",
+        "location": "Peterhead",
+        "price": "200000",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "kitchens": "1",
+        "image": "hse2.jpeg"
+    }
+]
